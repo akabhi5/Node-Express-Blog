@@ -7,5 +7,7 @@ for: https://github.com/akabhi5/React-Blog-App
 ### To setup craete .env file in root with
 
 
-`DB_CONNECT = mongodbur;
-`TOKEN_SECRET = token_secret
+```
+DB_CONNECT = mongodbur;
+TOKEN_SECRET = token_secret
+```
